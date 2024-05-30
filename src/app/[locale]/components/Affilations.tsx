@@ -64,6 +64,7 @@ const AffiliationSlider = () => {
     arrows: false,
     autoplay: true,
     autoplaySpeed: 2500,
+    swipetoSlide: true,
     responsive: [
       {
         breakpoint: 1024,
